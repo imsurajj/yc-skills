@@ -27,7 +27,7 @@ npx skills add imsurajj/yc-skills
 npx skills add imsurajj/yc-skills --skill yc-startup-landing-page
 npx skills add imsurajj/yc-skills --skill yc-pitch-deck-story
 npx skills add imsurajj/yc-skills --skill yc-cold-outreach
-npx skills add imsurajj/yc-skills --skill yc-ph-launch
+npx skills add imsurajj/yc-skills --skill yc-product-hunt-launch
 npx skills add imsurajj/yc-skills --skill yc-investor-memo
 npx skills add imsurajj/yc-skills --skill yc-app-store-copy
 npx skills add imsurajj/yc-skills --skill yc-waitlist-emails
