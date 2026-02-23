@@ -14,6 +14,8 @@ inspired by top Y Combinator companies.
 | `yc-investor-memo` | Write concise monthly investor updates in YC style |
 | `yc-app-store-copy` | Write optimized App Store and Google Play listing copy |
 | `yc-waitlist-emails` | Write welcome and drip emails that convert signups to users |
+| `rest-api-best-practices` | Write best practices for REST API design and implementation |
+| `email-swipe-file` | Write email templates for various use cases |
 
 ## Install All Skills
 
@@ -32,6 +34,7 @@ npx skills add imsurajj/yc-skills --skill yc-investor-memo
 npx skills add imsurajj/yc-skills --skill yc-app-store-copy
 npx skills add imsurajj/yc-skills --skill yc-waitlist-emails
 npx skills add imsurajj/yc-skills --skill rest-api-best-practices
+npx skills add imsurajj/yc-skills --skill email-swipe-file
 ```
 
 ## Install to a Specific Agent
