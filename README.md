@@ -31,6 +31,7 @@ npx skills add imsurajj/yc-skills --skill yc-product-hunt-launch
 npx skills add imsurajj/yc-skills --skill yc-investor-memo
 npx skills add imsurajj/yc-skills --skill yc-app-store-copy
 npx skills add imsurajj/yc-skills --skill yc-waitlist-emails
+npx skills add imsurajj/yc-skills --skill rest-api-best-practices
 ```
 
 ## Install to a Specific Agent
